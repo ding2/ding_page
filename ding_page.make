@@ -17,14 +17,14 @@ projects[ting_reference][download][tag] = "7.x-0.18"
 
 projects[cache_actions][type] = module
 projects[cache_actions][subdir] = contrib
-projects[cache_actions][version] = 2.0-alpha3
+projects[cache_actions][version] = "2.0-alpha5"
 
-projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.0"
+projects[ctools][subdir] = contrib
+projects[ctools][version] = "1.1"
 
 projects[features][type] = module
 projects[features][subdir] = contrib
-projects[features][version] = 1.0-rc3
+projects[features][version] = "1.0"
 
 
 ; Changed to download as git repository due to failing when applying
@@ -39,5 +39,5 @@ projects[og][patch][] = http://drupal.org/files/1320778.patch
 
 projects[strongarm][type] = module
 projects[strongarm][subdir] = contrib
-projects[strongarm][version] = 2.0-beta4
+projects[strongarm][version] = "2.0"
 
