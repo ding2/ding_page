@@ -5,12 +5,12 @@ core = 7.x
 
 projects[ding_base][type] = "module"
 projects[ding_base][download][type] = "git"
-projects[ding_base][download][url] = "git@github.com:ding2tal/ding_base.git"
+projects[ding_base][download][url] = "git@github.com:ding2/ding_base.git"
 projects[ding_base][download][branch] = "development"
 
 projects[ting_reference][type] = module
 projects[ting_reference][download][type] = git
-projects[ting_reference][download][url] = git@github.com:ding2tal/ting_reference.git
+projects[ting_reference][download][url] = git@github.com:ding2/ting_reference.git
 projects[ting_reference][download][branch] = "development"
 
 ; Contrib modules
