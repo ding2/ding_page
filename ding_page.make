@@ -5,12 +5,12 @@ api = 2
 projects[ding_base][type] = "module"
 projects[ding_base][download][type] = "git"
 projects[ding_base][download][url] = "git@github.com:ding2/ding_base.git"
-projects[ding_base][download][branch] = "master"
+projects[ding_base][download][tag] = "v2.0.0"
 
 projects[ting_reference][type] = "module"
 projects[ting_reference][download][type] = "git"
 projects[ting_reference][download][url] = "git@github.com:ding2/ting_reference.git"
-projects[ting_reference][download][branch] = "master"
+projects[ting_reference][download][tag] = "v2.0.0"
 
 projects[cache_actions][subdir] = "contrib"
 projects[cache_actions][version] = "2.0-alpha5"
